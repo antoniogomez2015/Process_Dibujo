@@ -1,0 +1,56 @@
+
+
+
+Curos de Dibujo en general, cursos varios
+
+
+
+	Las 6 reglas del 3d:
+
+		https://www.youtube.com/watch?v=oeS9BB54XUs
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+	1_Color ó tono local:
+
+		_éste equivale al tono natural del motivo de forma natural
+
+
+
+	2_Zona iluminada:
+
+		_ésta equivale a la zona  iluminada del tono natural del motivo
+
+
+
+	3_Zona oscura:
+
+		_ésta es la zona en penunbra ó donde la luz no puede llegar de forma directa
+
+
+
+	4_Punto de luz:
+
+		_ésta es el punto de reflexión ó de destello, en superficies lisas y brillantes ó grasosas
+
+
+
+	5_Luz de retroceso:
+
+		_éste es la zona de luz de retroceso, ó luz reflejada por otros objetos ó iluminación envolvente
+
+
+
+	6_Sombra:
+
+		_éste es la zombra proyecta directamente por el objeto sobre otras superficies de otros objetos ó elementos
+
+
+
+
+
+
